@@ -1,6 +1,5 @@
-hello word
+helllo
 
+i'm newbie in git
 
-hi
-
-coding is fun but also is hard
+hope your guys can help me on this project
