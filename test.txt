@@ -10,3 +10,10 @@ hi, i'm gosu
 i'm from vn
 
 starting to learn programming
+
+
+
+
+
+
+print("hello world")
